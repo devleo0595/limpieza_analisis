@@ -7,4 +7,4 @@ Descripción de archivos:
 
 - **Código:** limpieza_y_analisis.R
 
-Desarrollado por Edison Vicente
+**Autor:** Edison Vicente
