@@ -1,5 +1,5 @@
-# limpieza_analisis
-Práctica sobre limpieza y análisis de datos.
+# Limpieza y análisis de datos
+Caso práctico orientado a aprender a identificar los datos relevantes para un proyecto analítico y usar las herramientas de integración, limpieza, validación y análisis de las mismas.
 
 Descripción de archivos:
 
